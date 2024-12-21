@@ -205,14 +205,6 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=goldsunshines" alt="goldsunshines" /></a>
-    </td>
-    <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldsunshines&theme=transparent" alt="goldsunshines" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
         <a href="#-my-github-stats--" target="_blank"><img alt="goldsunshines" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldsunshines&theme=transparent" /></a>
     </td>
     <td align="center" width="55%">
